@@ -1,0 +1,17 @@
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\bin\Debug\net5.0-windows\WageCalculator.exe
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\bin\Debug\net5.0-windows\WageCalculator.deps.json
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\bin\Debug\net5.0-windows\WageCalculator.runtimeconfig.json
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\bin\Debug\net5.0-windows\WageCalculator.runtimeconfig.dev.json
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\bin\Debug\net5.0-windows\WageCalculator.dll
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\bin\Debug\net5.0-windows\ref\WageCalculator.dll
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\bin\Debug\net5.0-windows\WageCalculator.pdb
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\obj\Debug\net5.0-windows\WageCalculator.Form1.resources
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\obj\Debug\net5.0-windows\WageCalculator.csproj.GenerateResource.cache
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\obj\Debug\net5.0-windows\WageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\obj\Debug\net5.0-windows\WageCalculator.AssemblyInfoInputs.cache
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\obj\Debug\net5.0-windows\WageCalculator.AssemblyInfo.cs
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\obj\Debug\net5.0-windows\WageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\obj\Debug\net5.0-windows\WageCalculator.dll
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\obj\Debug\net5.0-windows\ref\WageCalculator.dll
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\obj\Debug\net5.0-windows\WageCalculator.pdb
+C:\Users\Joseph\OneDrive\Desktop\C#\WageCalculator\obj\Debug\net5.0-windows\WageCalculator.genruntimeconfig.cache

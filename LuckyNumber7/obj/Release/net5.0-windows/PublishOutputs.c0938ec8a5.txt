@@ -1,0 +1,5 @@
+C:\Users\Joseph\OneDrive\Desktop\C#\publish\LuckyNumber7.exe
+C:\Users\Joseph\OneDrive\Desktop\C#\publish\LuckyNumber7.dll
+C:\Users\Joseph\OneDrive\Desktop\C#\publish\LuckyNumber7.deps.json
+C:\Users\Joseph\OneDrive\Desktop\C#\publish\LuckyNumber7.runtimeconfig.json
+C:\Users\Joseph\OneDrive\Desktop\C#\publish\LuckyNumber7.pdb
